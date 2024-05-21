@@ -2,22 +2,18 @@
 
 <ul>
  <li>
-    🏫Estudando em SENAI JANDIRA
+    🏫Formado em desenvolvimento de sistemas, cursando engenharia da computação
  </li>
  <li>   
-    📚 Estudando back-end e front-end
+    📚 Estudando front-end e mobile
  </li>
  <li>
-    👯 Mais voltado para Java, CSS e HTML
+    👯 Mais voltado para kotlin e mobile
  </li>
  <li>
     📧 Contate-me no email: jv147002@gmail.com
  </li>
 </ul>
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100017784065363)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/OCAI2WEULLUEJ1)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ratinho_lol59)
 
 ![João GitHub stats](https://github-readme-stats.vercel.app/api?username=Ratinho253&show_icons=true&theme=synthwave)
 
@@ -28,6 +24,11 @@
    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
      <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">  
+       <img align="center" alt="android studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+         <img align="center" alt="sql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+           <img  align="center" alt="kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+            <img  align="center" alt="node" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 </div></br>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ratinho253&layout=compact&&_icons=true&theme=synthwave)
